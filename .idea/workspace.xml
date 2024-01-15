@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce149473-aa90-4254-a59e-e6378a8d0709" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4J2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/ActualTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/ActualTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/BasicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/BasicTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/LinkStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/Summa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic/TableScroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hasmaps/FibonacciUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hasmaps/FindOutExtraKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hasmaps/PrintFibonacciUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hasmaps/SumOfAllElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hasmaps/VirtualThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practsie/DuplicateElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practsie/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practsie/FindSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practsie/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practsie/NoSemicolon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practsie/Validation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2S61s4pLWgQKzpybFiHj4JqOlEz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActualTest.executor": "Run",
+    "Application.ActualTest1.executor": "Run",
+    "Application.Alerts.executor": "Run",
+    "Application.BasicTest.executor": "Run",
+    "Application.BasicTest1.executor": "Run",
+    "Application.DuplicateElementsInArray.executor": "Run",
+    "Application.FibonacciUsingRecursion.executor": "Run",
+    "Application.FindDuplicate.executor": "Run",
+    "Application.FindOutExtraKey.executor": "Run",
+    "Application.FindSequence.executor": "Run",
+    "Application.LinkStream.executor": "Run",
+    "Application.MergeArray.executor": "Run",
+    "Application.NoSemicolon.executor": "Run",
+    "Application.PrintFibonacciUsingRecursion.executor": "Run",
+    "Application.SumOfAllElementsInArray.executor": "Run",
+    "Application.TableScroll.executor": "Run",
+    "Application.Validation.executor": "Run",
+    "Application.VirtualThreads.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.DataProviderTest.executor": "Run",
+    "TestNG.SimpleTest.test.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SumOfAllElementsInArray">
+    <configuration name="FibonacciUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasmaps.FibonacciUsingRecursion" />
+      <module name="basictest9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hasmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindOutExtraKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasmaps.FindOutExtraKey" />
+      <module name="basictest9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hasmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintFibonacciUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasmaps.PrintFibonacciUsingRecursion" />
+      <module name="basictest9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hasmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfAllElementsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasmaps.SumOfAllElementsInArray" />
+      <module name="basictest9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hasmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasmaps.VirtualThreads" />
+      <module name="basictest9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hasmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfAllElementsInArray" />
+        <item itemvalue="Application.VirtualThreads" />
+        <item itemvalue="Application.FibonacciUsingRecursion" />
+        <item itemvalue="Application.PrintFibonacciUsingRecursion" />
+        <item itemvalue="Application.FindOutExtraKey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-azul-17.0.9-8336523bb0d9-95c9aa45" />
+        <option value="jdk-17.0.9-azul-17.0.9-e1d2075fd9a7-cb6fc96a" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-e1d2075fd9a7-44b2a9b4" />
+        <option value="jdk-21.0.1-sapmachine-21.0.1-e1d2075fd9a7-93a1abd2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce149473-aa90-4254-a59e-e6378a8d0709" name="Changes" comment="" />
+      <created>1688452420990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688452420990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/basic/ActualTest.java</url>
+          <line>17</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/basic/ActualTest1.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
